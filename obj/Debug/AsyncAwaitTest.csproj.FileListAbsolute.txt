@@ -1,0 +1,9 @@
+c:\users\fukuda\documents\visual studio 2013\Projects\AsyncAwaitTest\obj\Debug\AsyncAwaitTest.Form1.resources
+c:\users\fukuda\documents\visual studio 2013\Projects\AsyncAwaitTest\obj\Debug\AsyncAwaitTest.Properties.Resources.resources
+c:\users\fukuda\documents\visual studio 2013\Projects\AsyncAwaitTest\obj\Debug\AsyncAwaitTest.csproj.GenerateResource.Cache
+c:\users\fukuda\documents\visual studio 2013\Projects\AsyncAwaitTest\bin\Debug\AsyncAwaitTest.exe.config
+c:\users\fukuda\documents\visual studio 2013\Projects\AsyncAwaitTest\bin\Debug\AsyncAwaitTest.exe
+c:\users\fukuda\documents\visual studio 2013\Projects\AsyncAwaitTest\bin\Debug\AsyncAwaitTest.pdb
+c:\users\fukuda\documents\visual studio 2013\Projects\AsyncAwaitTest\obj\Debug\AsyncAwaitTest.exe
+c:\users\fukuda\documents\visual studio 2013\Projects\AsyncAwaitTest\obj\Debug\AsyncAwaitTest.pdb
+c:\users\fukuda\documents\visual studio 2013\Projects\AsyncAwaitTest\obj\Debug\AsyncAwaitTest.csprojResolveAssemblyReference.cache

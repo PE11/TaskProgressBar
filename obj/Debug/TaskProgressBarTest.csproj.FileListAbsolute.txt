@@ -1,0 +1,9 @@
+C:\Users\Fukuda\Documents\Visual Studio 2013\Projects\TaskProgressBar\bin\Debug\AsyncAwaitTest.exe.config
+C:\Users\Fukuda\Documents\Visual Studio 2013\Projects\TaskProgressBar\obj\Debug\AsyncAwaitTest.exe
+C:\Users\Fukuda\Documents\Visual Studio 2013\Projects\TaskProgressBar\obj\Debug\AsyncAwaitTest.pdb
+C:\Users\Fukuda\Documents\Visual Studio 2013\Projects\TaskProgressBar\bin\Debug\AsyncAwaitTest.exe
+C:\Users\Fukuda\Documents\Visual Studio 2013\Projects\TaskProgressBar\bin\Debug\AsyncAwaitTest.pdb
+C:\Users\Fukuda\Documents\Visual Studio 2013\Projects\TaskProgressBar\obj\Debug\TaskProgressBarTest.csprojResolveAssemblyReference.cache
+C:\Users\Fukuda\Documents\Visual Studio 2013\Projects\TaskProgressBar\obj\Debug\AsyncAwaitTest.Form1.resources
+C:\Users\Fukuda\Documents\Visual Studio 2013\Projects\TaskProgressBar\obj\Debug\AsyncAwaitTest.Properties.Resources.resources
+C:\Users\Fukuda\Documents\Visual Studio 2013\Projects\TaskProgressBar\obj\Debug\TaskProgressBarTest.csproj.GenerateResource.Cache
